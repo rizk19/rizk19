@@ -3,7 +3,7 @@
 I'm a passionate Fullstack Developer based in Indonesia. Here's a bit about me:
 
 - 💼 Currently working as a Fullstack Developer with a focus on PL/SQL and Oracle DB as my main work right now.
-- 🌐 Experienced with JavaScript, Vue.js, React, and React Native for frontend development.
+- 🌐 Experienced in frontend development since 2019.
 - 🚀 Exploring Next.js and Nuxt.js for building modern web applications.
 - 🐍 Currently diving into the world of Python programming.
 
@@ -30,9 +30,7 @@ I'm a passionate Fullstack Developer based in Indonesia. Here's a bit about me:
 ## 📫 Get in Touch
 
 - LinkedIn: [Rizki Faris](https://www.linkedin.com/in/rizki-faris-1a23b0115/)
-- Email: [Mail](mailto:rizki.faris@gmail.com)
+- Email: [iCloud](mailto:rizki.faris@gmail.com)
 
 
 Thanks for visiting my GitHub profile! Get in touch if you'd like to collaborate or have any questions.
-
-# rizk19
