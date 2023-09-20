@@ -24,7 +24,7 @@ I'm a passionate Fullstack Developer based in Indonesia. Here's a bit about me:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-e5e5e5?style=for-the-badge)
 - **Languages**: ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/PL%2FSQL-F5F5F5?style=for-the-badge&logo=PYTHON&logoColor=%233776AB)
+![Python](https://img.shields.io/badge/python-F5F5F5?style=for-the-badge&logo=PYTHON&logoColor=%233776AB)
 
 
 ## 📫 Get in Touch
