@@ -27,6 +27,7 @@ I'm a passionate Fullstack Developer based in Indonesia. Here's a bit about me:
 ![Python](https://img.shields.io/badge/python-F5F5F5?style=for-the-badge&logo=PYTHON&logoColor=%233776AB)
 ![Swift](https://img.shields.io/badge/swift-f5f5f5?style=for-the-badge&logo=swift&logoColor=%23F05138)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-e5e5e5?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-9C4894?style=for-the-badge)
 
 ## 📫 Get in Touch
 
